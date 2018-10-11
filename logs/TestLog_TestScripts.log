@@ -1,0 +1,4 @@
+2018-10-11 22:49:39,270 INFO  [Executor:93] Loaded Test Configuration file...
+2018-10-11 22:49:39,275 INFO  [Executor:94] Test Browser:  chrome
+2018-10-11 22:49:39,275 INFO  [Executor:95] TestSuite Path: ./resources/Source.xls
+2018-10-11 22:49:45,690 INFO  [Executor:111] Brower is opened
